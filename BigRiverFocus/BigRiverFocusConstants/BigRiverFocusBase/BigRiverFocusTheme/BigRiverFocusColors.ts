@@ -1,0 +1,17 @@
+export const bigRiverFocusColors = {
+  black: '#000000',
+  white: '#FFFFFF',
+  buttonText: '#614902',
+  titleYellow: '#FABE09',
+  inactiveDot: '#4A3A0A',
+  boardOverlay: 'rgba(0, 0, 0, 0)',
+  panelYellow: '#FABE09',
+  panelYellowLight: '#FBFD25',
+  tabInactive: 'rgba(250, 190, 9, 0.45)',
+  counterBg: 'rgba(0, 0, 0, 0.55)',
+  aquariumCardInactive: 'rgba(197, 217, 123, 0.55)',
+  aquariumTopButton: 'rgba(197, 217, 123, 0.85)',
+  topButtonMuted: 'rgba(250, 190, 9, 0.6)',
+  deleteRed: 'rgba(217, 0, 0, 0.6)',
+  cardShadow: '#614902',
+};
